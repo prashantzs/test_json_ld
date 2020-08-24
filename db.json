@@ -1,0 +1,20 @@
+	{
+      "@context": "http://schema.org",
+  		"@type": "Product",
+ 			"description": "Panthère de Cartier watch: Panthère de Cartier watch, small model, quartz movement. Case in 18K yellow gold",
+  		"name": "Panthère de Cartier watch",
+  		"image": "https://www.cartier.com/content/dam/rcq/car/14/37/98/7/1437987.png.scale.240.high.png",
+      "url": "https://www.cartier.com/en-us/collections/watches/women-s-watch/panth%C3%A8re-de-cartier/wgpn0008-panth%C3%A8re-de-cartier-watch.html",
+  		"sku": "WGPN0008",
+			"brand": {
+  				"@type": "Thing",
+  				"name": "Cartier"
+ 			},
+			"offers": {
+          "@type": "Offer",
+          "priceCurrency": "USD",
+				  "price": "19800.0",
+				  "availability": "https://schema.org/InStock",
+          "url": "https://www.cartier.com/en-us/collections/watches/women-s-watch/panth%C3%A8re-de-cartier/wgpn0008-panth%C3%A8re-de-cartier-watch.html"
+			}
+    }
